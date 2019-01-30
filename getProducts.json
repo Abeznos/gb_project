@@ -1,0 +1,210 @@
+﻿[
+  {
+    "id": 1,
+    "name": "L-Mil",
+    "price": 271,
+    "rate": 3.5,
+    "mainImg": {
+      "src": "img/products_img/l-mil/main.jpg",
+      "alt": "L-Mil Jackets"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/l-mil/2.jpg",
+        "alt": "L-Mil Jackets"
+      },
+      {
+        "src": "img/products_img/l-mil/3.jpg",
+        "alt": "L-Mil Jackets"
+      },
+      {
+        "src": "img/products_img/l-mil/4.jpg",
+        "alt": "L-Mil Jackets"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "L-Yutakis",
+    "price": 784,
+    "rate": 4,
+    "mainImg": {
+      "src": "img/products_img/l-yutakis/main.jpg",
+      "alt": "l-Yutakis Jackets"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/l-yutakis/2.jpg",
+        "alt": "l-Yutakis Jackets"
+      },
+      {
+        "src": "img/products_img/l-yutakis/3.jpg",
+        "alt": "l-Yutakis Jackets"
+      },
+      {
+        "src": "img/products_img/l-yutakis/4.jpg",
+        "alt": "l-Yutakis Jackets"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "M-Pic",
+    "price": 108,
+    "rate": 3,
+    "mainImg": {
+      "src": "img/products_img/m-pic/main.jpg",
+      "alt": "M-Pic Knitwear"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/m-pic/2.jpg",
+        "alt": "M-Pic Knitwear"
+      },
+      {
+        "src": "img/products_img/m-pic/3.jpg",
+        "alt": "M-Pic Knitwear"
+      },
+      {
+        "src": "img/products_img/m-pic/4.jpg",
+        "alt": "M-Pic Knitwear"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "M-Softy",
+    "price": 138,
+    "rate": 3.5,
+    "mainImg": {
+      "src": "img/products_img/m-softy/main.jpg",
+      "alt": "M-Softy Dress"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/m-softy/2.jpg",
+        "alt": "M-Softy Dress"
+      },
+      {
+        "src": "img/products_img/m-softy/3.jpg",
+        "alt": "M-Softy Dress"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sleenker",
+    "price": 135,
+    "rate": 2.5,
+    "mainImg": {
+      "src": "img/products_img/sleenker/main.jpg",
+      "alt": "Sleenker Jeans"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/sleenker/2.jpg",
+        "alt": "Sleenker Jeans"
+      },
+      {
+        "src": "img/products_img/sleenker/3.jpg",
+        "alt": "Sleenker Jeans"
+      },
+      {
+        "src": "img/products_img/sleenker/4.jpg",
+        "alt": "Sleenker Jeans"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "T-Terre",
+    "price": 53,
+    "rate": 4,
+    "mainImg": {
+      "src": "img/products_img/t-terre/main.jpg",
+      "alt": "T-Terre Polo"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/t-terre/2.jpg",
+        "alt": "T-Terre Polo"
+      },
+      {
+        "src": "img/products_img/t-terre/3.jpg",
+        "alt": "T-Terre Polo"
+      },
+      {
+        "src": "img/products_img/t-terre/4.jpg",
+        "alt": "T-Terre Polo"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Umlt-Casey",
+    "price": 41,
+    "rate": 2.5,
+    "mainImg": {
+      "src": "img/products_img/umlt-casey/main.jpg",
+      "alt": "Umlt-Casey Knitwear"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/umlt-casey/2.jpg",
+        "alt": "Umlt-Casey Knitwear"
+      },
+      {
+        "src": "img/products_img/umlt-casey/3.jpg",
+        "alt": "Umlt-Casey Knitwear"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Widee-JoggJean",
+    "price": 242,
+    "rate": 1.5,
+    "mainImg": {
+      "src": "img/products_img/widee-joggJean/main.jpg",
+      "alt": "Widee-JoggJean Jeans"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/widee-joggJean/2.jpg",
+        "alt": "Widee-JoggJean Jeans"
+      },
+      {
+        "src": "img/products_img/widee-joggJean/3.jpg",
+        "alt": "Widee-JoggJean Jeans"
+      },
+      {
+        "src": "img/products_img/widee-joggJean/3.jpg",
+        "alt": "Widee-JoggJean Jeans"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "De-Frinskitr-P",
+    "price": 218,
+    "rate": 4,
+    "mainImg": {
+      "src": "img/products_img/de-frinskitr-p/main.jpg",
+      "alt": "De-Frinskitr-P Skirt"
+    },
+    "imgToSlider": [
+      {
+        "src": "img/products_img/de-frinskitr-p/2.jpg",
+        "alt": "De-Frinskitr-P Skirt"
+      },
+      {
+        "src": "img/products_img/de-frinskitr-p/3.jpg",
+        "alt": "De-Frinskitr-P Skirt"
+      },
+      {
+        "src": "img/products_img/de-frinskitr-p/3.jpg",
+        "alt": "De-Frinskitr-P Skirt"
+      }
+    ]
+  }
+]

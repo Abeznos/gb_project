@@ -1,0 +1,34 @@
+{
+  "amount": 356,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id": 9,
+      "name": "De-Frinskitr-P",
+      "rate": 4,
+      "img": {
+        "src": "img/products_img/de-frinskitr-p/main.jpg",
+        "alt": "De-Frinskitr-P Skirt"
+      },
+      "price": 218,
+      "quantity": 1,
+      "color": "Black",
+      "size": "S",
+      "shipping": "Free"
+    },
+    {
+      "id": 4,
+      "name": "M-Softy",
+      "rate": 3.5,
+      "img": {
+        "src": "img/products_img/m-softy/main.jpg",
+        "alt": "M-Softy Dress"
+      },
+      "price": 138,
+      "quantity": 1,
+      "color": "Purple",
+      "size": "S",
+      "shipping": "Free"
+    }
+  ]
+}
